@@ -1,4 +1,4 @@
-# Time Series Forecasting: Glovo Order Prediction for Barcelona,Spain 
+# Time Series Forecasting: Glovo Order Prediction in Barcelona,Spain 
 
 This project aimed to predict the number of orders Glovo will receive on an hourly basis for the upcoming week. The predictions will help optimize the number of couriers required, ensuring efficient service without excess idle time or delayed deliveries. 
 
